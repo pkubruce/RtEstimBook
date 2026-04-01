@@ -1,6 +1,6 @@
 # R(t) Estimation bookdown
 
-Current link: https://chadmilando.com/RtEstimBook/
+Current link: https://sites.bu.edu/disease-rt/
 
 ### Some setup notes
 
